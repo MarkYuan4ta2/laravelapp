@@ -1,0 +1,17 @@
+在laravel的routes文件中设置timezone为prc
+
+可用主题
+twilight
+terminal
+monokai
+github
+eclipse
+chaos
+
+laravel会将输出的HTML自动转义，使用{!! !!}标签可防止转义
+
+使用layer加content插入代码的方式弹出控制面板不能保存其中的参数
+
+在public目录下新建upload目录用于存储上传的代码
+
+可以接收代码内容并存储
